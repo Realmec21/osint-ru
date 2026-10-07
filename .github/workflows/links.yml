@@ -25,7 +25,6 @@ jobs:
             --timeout 30
             --max-retries 2
             --accept 200,206,403,429,405
-            --exclude-mail
             --exclude 't\.me/|telegram\.me/|play\.google\.com|youtube\.com|twitter\.com|x\.com'
             '**/*.md'
           output: lychee-report.md
