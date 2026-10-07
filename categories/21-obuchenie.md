@@ -13,9 +13,7 @@
 
 ## Книги и руководства
 
-- [OSINT Handbook (2018)](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) — коллекция инструментов и методик.
-- [Counter-OSINT guide (soxoj)](https://github.com/soxoj/counter-osint-guide-ru) — приватность для Рунета (RU/EN).
-- [«OSINT. Методы поиска информации»](https://www.labirint.ru/) — русскоязычные издания по теме.
+→ Отдельная категория: [22-knigi.md](22-knigi.md) — русскоязычные книги, англоязычные хендбуки и бесплатные PDF.
 
 ## Видео и каналы
 
@@ -46,4 +44,5 @@
 
 ## Смежные категории
 
+- Книги и мануалы → [22-knigi.md](22-knigi.md)
 - Контр-OSINT → [20-kontrosint.md](20-kontrosint.md)

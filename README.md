@@ -57,6 +57,7 @@
 |---|-----------|------|
 | 20 | Контр-OSINT и приватность | [categories/20-kontrosint.md](categories/20-kontrosint.md) |
 | 21 | Обучение и ресурсы | [categories/21-obuchenie.md](categories/21-obuchenie.md) |
+| 22 | Книги и мануалы | [categories/22-knigi.md](categories/22-knigi.md) |
 
 ## 🚀 Быстрый старт
 
