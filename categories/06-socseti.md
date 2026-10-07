@@ -11,7 +11,6 @@
 | [220VK](https://220vk.com/) | Анализ реакций, комментариев и активности |
 | [searchlikes.ru](http://searchlikes.ru) | Анализ лайков пользователя |
 | [VKAnalysis](https://github.com/migalin/VKAnalysis) | Скрипт анализа VK |
-| [VKnebaz](https://vknebaz.com) | Архив профилей: группы и друзья у закрытых страниц |
 | [TopDB](https://topdb.ru) | Удалённые изображения по ID пользователя |
 | [Упоминания в ВК](https://vk.com/feed?obj=ID&q=%C2%A7ion=mentions) | URL-шаблон поиска упоминаний по ID пользователя |
 

@@ -25,7 +25,6 @@
 ## Инструменты
 
 - [LeakLooker](https://github.com/woj-ciech/LeakLooker) — поиск открытых баз через Shodan (нужен API-ключ).
-- [karma](https://github.com/decoxviii/karma) — поиск по утечкам.
 - `email2phonenumber` — связка email → телефон, из которой строится дальнейший пробив.
 
 ## Методы

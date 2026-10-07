@@ -31,11 +31,9 @@
 
 ## Геометки и следы
 
-- [photomap](http://sanstv.ru/photomap/) — фото по геометкам в соцсетях.
 - [YouTube Geofind](https://mattw.io/youtube-geofind/location) — видео, снятые в конкретной точке.
 - [snradar](http://snradar.azurewebsites.net/) — фото ВК по времени и месту.
 - [aprs.fi](https://aprs.fi) — геолокация радиолюбительских меток.
-- [3WiFi map](https://3wifi.stascorp.com/map) — карта Wi-Fi точек доступа.
 - [MAC → геолокация](https://alexell.ru/network/mac-geo/) — приблизительное определение по MAC роутера.
 
 ## Полезные приёмы

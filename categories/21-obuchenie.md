@@ -7,9 +7,8 @@
 | Ресурс | Описание |
 |--------|----------|
 | [OSINT Framework](https://osintframework.com/) | Дерево инструментов по типу данных |
-| [IntelTechniques](https://inteltechniques.com/links.HTML) | Наборы ссылок Майкла Базелла |
+| [IntelTechniques](https://inteltechniques.com/) | Наборы ссылок и инструментов Майкла Базелла |
 | [Ph055a OSINT-Collection](https://github.com/Ph055a/OSINT-Collection) | Поддерживаемая коллекция ресурсов |
-| [MetaOSINT](https://metaosint.io/) | Подбор инструментов под задачу |
 | [ciberpatrulla links](https://ciberpatrulla.com/links/) | Каталог OSINT-ссылок |
 
 ## Книги и руководства
@@ -30,7 +29,6 @@
 
 | Ресурс | Описание |
 |--------|----------|
-| [OSINT Curious](https://www.osintcurious.me/) | Блог и задачи |
 | [OSINT Dojo](https://osintdojo.com/) | Тренировочные задания |
 | [Bellingcat](https://www.bellingcat.com/) | Методики расследований |
 | [SANS OSINT](https://www.sans.org/) | Профессиональные курсы |

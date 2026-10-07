@@ -42,9 +42,8 @@
 | [searchcode.com](https://searchcode.com) | Поиск исходников по всем хостингам |
 | [grep.app](https://grep.app/) | Поиск по репозиториям GitHub |
 | [truffleHog](https://github.com/trufflesecurity/truffleHog) | Поиск секретов в git-истории |
-| [GitDorking](https://github.com/obheda12/GitDorking) | Докинги по GitHub |
+| [GitDorker](https://github.com/obheda12/GitDorker) | Докинги по GitHub |
 | [GHNames](https://github.com/GHNames) | История имён и email пользователей GitHub |
-| [github_monitor](https://github.com/github_monitor) | Отслеживание активности пользователей |
 
 ## Сайты и ссылки
 

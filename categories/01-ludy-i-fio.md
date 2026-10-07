@@ -13,7 +13,6 @@
 | [Spokeo](https://www.spokeo.com/) | Социальный поиск людей: профили, адреса, история |
 | [ZabaSearch](https://www.zabasearch.com/search_menu/) | Публичные записи США |
 | [Hunter](https://hunter.io/) | Поиск email-адресов по имени и компании |
-| [NameLocator](http://www.nameslocator.com/) | Поиск людей по имени по разным странам |
 
 ## Соцсети и агрегаторы
 

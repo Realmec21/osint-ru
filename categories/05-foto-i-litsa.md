@@ -10,7 +10,6 @@
 | [Google Images](https://images.google.com) | Обратный поиск + продвинутые фильтры ([advanced](https://www.google.com/advanced_image_search)) |
 | [TinEye](https://www.tineye.com) | Поиск первоисточника картинки и всех доменов, где она размещена |
 | [Berify](https://berify.com) | Обратный поиск с расширенным охватом |
-| [Search by Image](https://searchbyimages.com) | Агрегатор обратного поиска |
 
 ## Поиск по лицу
 
@@ -26,7 +25,6 @@
 
 ## Геометки фото
 
-- [photomap](http://sanstv.ru/photomap/) — поиск фото по геометкам в соцсетях.
 - [worldc.am](http://worldc.am/) — фото с привязкой к геолокации.
 - [snradar](http://snradar.azurewebsites.net/) — фото ВК, сделанные в определённое время и месте.
 

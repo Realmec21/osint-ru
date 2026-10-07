@@ -9,7 +9,6 @@
 | [ExifTool](https://exiftool.org/) | Ключевая утилита: чтение и правка метаданных |
 | [metapicz.com](http://metapicz.com/#landing) | Онлайн-просмотр EXIF |
 | [findexif.com](http://www.findexif.com/) | Извлечение EXIF в браузере |
-| [Jeffrey's EXIF viewer](http://exif.regex.info/exif.cgi) | Детальный разбор метаданных |
 | [linkstore.ru/exif](http://linkstore.ru/exif/) | Онлайн EXIF |
 | [imgops.com](http://imgops.com/) | Обратный поиск + метаданные |
 

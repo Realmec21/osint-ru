@@ -8,7 +8,6 @@
 |--------|--------|
 | [ЕГРЮЛ (ФНС)](https://egrul.nalog.ru/) | Сведения из Единого госреестра юрлиц |
 | [Сервис ФНС](https://pb.nalog.ru/) | Поиск юридических лиц |
-| [Российский налоговый портал](https://www.rnportal.ru/) | Данные по компаниям и ИП |
 | [fedresurs.ru](https://fedresurs.ru/) | Факты деятельности компаний, дисквалификации |
 | [bankrot.fedresurs.ru](https://bankrot.fedresurs.ru/) | Реестр банкротств |
 | [list-org.com](https://list-org.com/) | Поиск компаний с визуализацией связей |

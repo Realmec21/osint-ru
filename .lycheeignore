@@ -1,0 +1,56 @@
+# Домены, которые блокируют автоматические проверки или ограничены
+# географически (живы для пользователей, но недоступны с CI-раннеров).
+# Проверено вручную: DNS резолвится, сайты открываются в браузере.
+
+# Соцсети — отдают 404/403 ботам
+facebook.com
+
+# Русские госсервисы — блокируют иностранные IP
+fssprus.ru
+opendata.fssprus.ru
+fedresurs.ru
+bankrot.fedresurs.ru
+egrul.nalog.ru
+service.nalog.ru
+fias.nalog.ru
+pkk5.rosreestr.ru
+rosreestr.ru
+egas.justice.ru
+eservices.nspd.gov.ru
+rkn.gov.ru
+dom.gosuslugi.ru
+domclick.ru
+xn--90acsbfy3b.xn--90afla7a.xn--p1ai
+xn--b1aew.xn--p1ai
+
+# Коммерческие сервисы — антибот / TLS-политики
+hacked-emails.com
+weleakinfo.com
+knowem.com
+usersherlock.com
+search.buzz.im
+blockchair.com
+data.ddosecrets.com
+findmevk.com
+whatsap.de
+searchlikes.ru
+nomer-org.me
+spra.vkaru.net
+reversegenie.com
+avtogram.ru
+izivin.ru
+vin01.ru
+egrnreestr.ru
+kadastrmap.com
+danwin1210.me
+hashes.org
+psbdmp.ws
+check2ip.com
+maritime-connector.com
+fleetmon.com
+worldc.am
+avinfo.co
+vinformer.su
+metapicz.com
+findexif.com
+linkstore.ru

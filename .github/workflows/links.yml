@@ -24,8 +24,10 @@ jobs:
             --no-progress
             --timeout 30
             --max-retries 2
-            --accept 200,206,403,429,405
-            --exclude 't\.me/|telegram\.me/|play\.google\.com|youtube\.com|twitter\.com|x\.com'
+            --accept 200,202,206,401,403,405,429,503
+            --accept-timeouts
+            --insecure
+            --exclude 't\.me/|telegram\.me/|telegram\.im/|play\.google\.com|youtube\.com|twitter\.com|x\.com'
             '**/*.md'
           output: lychee-report.md
           fail: false

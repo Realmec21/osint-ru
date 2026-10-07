@@ -16,7 +16,7 @@
 
 | Инструмент | Описание |
 |------------|----------|
-| [Wayback URL Checker](https://github.com/twsec7/waybackurls) | Сбор URL из архива |
+| [waymore](https://github.com/xnl-h4ck3r/waymore) | Сбор URL из Wayback, Common Crawl, OTX и других архивов |
 | [waybackurls](https://github.com/tomnomnom/waybackurls) | CLI для сбора исторических URL |
 | [gau](https://github.com/lc/gau) | Сбор URL из нескольких источников |
 | [WARC tools](https://github.com/) | Работа с форматом WARC |

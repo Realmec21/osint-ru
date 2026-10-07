@@ -30,7 +30,6 @@ OSINT в Telegram, WhatsApp, Discord, ICQ и других мессенджера
 | Инструмент | Описание |
 |------------|----------|
 | [Discord.com/users](https://discord.com/users/ID) | Профиль по ID |
-| [DiscordLookup](https://discordlookup.mesalytic.moe/) | Информация о пользователе по ID |
 | [Disboard](https://disboard.org/) | Поиск серверов |
 
 ## Прочее

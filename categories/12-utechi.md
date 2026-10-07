@@ -22,7 +22,6 @@
 | [DDoSecrets](https://data.ddosecrets.com/file/) | Расследовательские дампы |
 | [danwin1210.me](https://danwin1210.me/uploads/) | Публичные загрузки утечек |
 | [vigilante.pw](https://vigilante.pw/) | Уведомления об уязвимостях |
-| [darknetleaks.ru](https://darknetleaks.ru/archive/) | Архив утечек |
 | [ebaza.pro](https://ebaza.pro/) | Поиск по открытым базам |
 
 ## Открытые базы (поиск через Shodan)

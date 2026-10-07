@@ -23,7 +23,7 @@
 |------------|----------|
 | [pagodo](https://github.com/opsdisk/pagodo) | Автоматизация сбора dorks из GHDB |
 | [Metabigor](https://github.com/j3ssie/Metabigor) | Использование поисковиков без API-ключей |
-| [Google CSE](https://cse.google.com/cse?cx=) | Пользовательские поисковые сборки (без капчи) |
+| [Google CSE](https://cse.google.com/cse) | Пользовательские поисковые сборки (без капчи) |
 | [dorksearch.com](https://dorksearch.com/) | Конструктор dorks |
 | [Crossbow](https://github.com/saeeddhqan/Maryam) | Поисковый комбайн (Maryam) |
 
