@@ -2,6 +2,10 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-OSINT-blue)](https://github.com/topics/osint)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+![Stars](https://img.shields.io/github/stars/Realmec21/osint-ru?style=flat&logo=github)
+![Forks](https://img.shields.io/github/forks/Realmec21/osint-ru?style=flat&logo=github)
+![Last commit](https://img.shields.io/github/last-commit/Realmec21/osint-ru?style=flat)
+![Links](https://img.shields.io/badge/ссылки-проверяются%20автоматически-brightgreen)
 
 Каталог инструментов и сервисов для OSINT, пробива и поиска информации, сгруппированный по категориям.
 Собрано из открытых русскоязычных подборок (`osint-and-search`, `solkogan/osinto`, `OldBonhart/Osint-Resources`,
