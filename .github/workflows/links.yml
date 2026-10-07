@@ -23,7 +23,7 @@ jobs:
           args: >-
             --no-progress
             --timeout 30
-            --retries 2
+            --max-retries 2
             --accept 200,206,403,429,405
             --exclude-mail
             --exclude 't\.me/|telegram\.me/|play\.google\.com|youtube\.com|twitter\.com|x\.com'
@@ -39,7 +39,7 @@ jobs:
           path: lychee-report.md
 
       - name: Создать issue о битых ссылках
-        if: steps.lychee.outputs.exit_code != 0
+        if: steps.lychee.outputs.exit_code == '2'
         uses: actions/github-script@v7
         with:
           script: |
